@@ -1,0 +1,46 @@
+<resources>
+
+    <string name="app_name">SecondApp</string>
+    <string name="action_settings1">Chicago</string>
+    <string name="action_settings2">Indianapolis</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_another">AnotherActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Please select a place</string>
+    <string name="spinner_title">Please select a place from drop down</string>
+    <string name="next_fragment">awesome</string>
+
+
+
+    <string-array name="Titles">
+        <item>Millenium Park</item>
+        <item>The Museum of Science and Industry</item>
+        <item>The Art Institute</item>
+        <item>Willis Tower</item>
+        <item>Lincoln Park Zoo</item>
+        <item>Navy pier</item>
+        <item>Wrigley Field</item>
+        <item>Shakespeare Theatre</item>
+        <item>Field museum of Natural History</item>
+        <item>Lyric Opera of Chicago</item>
+        <item>The Rookery building</item>
+        <item>The Garfield Park conservatory</item>
+    </string-array>
+    <string-array name="Quotes">
+        <item>http://www.cityofchicago.org/city/en/depts/dca/supp_info/millennium_park.html</item>
+        <item>http://www.msichicago.org/</item>
+        <item>http://www.artic.edu/</item>
+        <item>http://www.willistower.com/</item>
+        <item>http://www.lpzoo.org/</item>
+        <item>https://navypier.com/</item>
+        <item>http://chicago.cubs.mlb.com/chc/ballpark/</item>
+        <item>https://www.chicagoshakes.com/</item>
+        <item>https://www.fieldmuseum.org/</item>
+        <item>https://www.lyricopera.org/</item>
+       <item>http://therookerybuilding.com/</item>
+        <item>http://www.garfieldconservatory.org/</item>
+    </string-array>
+
+
+</resources>
